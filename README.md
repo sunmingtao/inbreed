@@ -1,0 +1,2 @@
+# inbreed
+Calculate inbreed coefficient
